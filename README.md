@@ -4,6 +4,9 @@ Wechat ID
 ```
 echo -n 'SW5jaF9aelo=' | base64 -d
 ```
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sequential-convolution-and-runge-kutta/image-compression-on-bsds500)](https://paperswithcode.com/sota/image-compression-on-bsds500?p=sequential-convolution-and-runge-kutta)
+
 <!--
 **Inch-Z/inch-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
