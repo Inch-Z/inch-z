@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working in Sensetime, Tencent, ICBC.
 - 🌱 I’m currently learning Deep Learning, Pytorch, Computer Vison.
-- 🤔 I’m looking for help with Game Theory.
-- 💬 Ask me about everything about coding.
+- 🤔 I’m looking for help with Game Theory and Domain Adaptation.
+- 💬 Ask me about everything about Cpmputer Vison.
 
