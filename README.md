@@ -9,7 +9,7 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-class-specific-unit/fine-grained-image-classification-on-cub-200-1)](https://paperswithcode.com/sota/fine-grained-image-classification-on-cub-200-1?p=towards-class-specific-unit)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-class-specific-unit/fine-grained-image-classification-on-cub-200)](https://paperswithcode.com/sota/fine-grained-image-classification-on-cub-200?p=towards-class-specific-unit)
+
 
 
 <!--
