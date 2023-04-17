@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working in Sensetime, Tencent, ICBC.
+- 🔭 I’m currently working in RedCity, Sensetime, Tencent, ICBC.
 - 🌱 I’m currently learning Deep Learning, Pytorch, Computer Vison.
 - 🤔 I’m looking for help with Game Theory and Domain Adaptation.
 - 💬 Ask me about everything about Computer Vison and I will try my best to answer.
