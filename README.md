@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working in RedCity, Sensetime, Tencent, ICBC.
-- 🌱 I’m currently learning Multi-madol.
+- 🔭 I work in RedCity.
+- 🌱 I’m currently learning Multi-modal.
 - 🤔 I’m looking for help with Game Theory and Domain Adaptation.
-- 💬 Ask me about everything about Computer Vison and I will try my best to answer.
+- 💬 Ask me about everything about Computer Vision and I will try my best to answer.
 
