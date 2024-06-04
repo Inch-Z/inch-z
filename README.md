@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I work in By.
+- 🔭 I work in ByteDance Inc.
 - 🌱 I’m currently learning Multi-modal.
 - 🤔 I’m looking for help with Game Theory and Domain Adaptation.
 - 💬 Ask me about everything about Computer Vision and I will try my best to answer.
