@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I work in ByteDance Inc.
-- 🌱 I’m currently learning Multi-modal.
-- 🤔 I’m looking for help with Game Theory and Domain Adaptation.
+- 🌱 I’m currently learning Multi-modal & LLM.
+- 🤔 I’m looking for help with LLM.
 - 💬 Ask me about everything about Computer Vision and I will try my best to answer.
 
