@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I work in ByteDance Inc.
+- 🔭 I work in Xiaohongshu.
 - 🌱 I’m currently learning Multi-modal & LLM.
 - 🤔 I’m looking for help with LLM.
 - 💬 Ask me about everything about Computer Vision and I will try my best to answer.
